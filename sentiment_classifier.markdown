@@ -13,7 +13,7 @@ The key step to answer our research questions is to detect the sentiment express
 |-------|-------|-------|
 | Pre-trained BERT | State-of-the-art sentiment analysis results | Without fine-tuning the perfromance was unsatisfactory and fine-tuning requires labeled data |  
 | Unsupervised VADER | Does not require any labeled data | The performance on sample sentences was unsatisfactory|
-| Zero-Shot Classifier | Does not require labeled data fro fine-tuning | Heavier to run| 
+| Zero-Shot Classifier | Does not require labeled data for fine-tuning and predicted reasonable sentiments on sample sentences | Heavier to run| 
 
 Given the above pros and cons in the end we decided to use the later model, i.e., the pretrained Zero-Shot Classifier.
 
