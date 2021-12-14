@@ -24,7 +24,7 @@ The plot below presents the percentage of posiive, negative, and neutral quotes 
 
 We also analyzed how the average sentiment expressed in financial quotes developed over time in the past years. The plots presented here show for each year, starting from 2015 until 2020, the average financial sentiment. 
 
-![WordCloud chart of word frequency](./images/average sentiment time series.png "Time series of the average sentiment")
+![WordCloud chart of word frequency](./images/average_sentiment_time_series.png "Time series of the average sentiment")
 
-Finally, we perfrom the same analysis as before regardin the frequency of the words used to see what are the most importnat words used in the quotes that are categorized as negative, positive and neutral. 
+Finally, we perfrom the same word frequency analysis to find the most important words used in the quotes that are categorized as negative, positive and neutral. 
 
