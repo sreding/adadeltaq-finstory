@@ -28,3 +28,11 @@ We also analyzed how the average sentiment expressed in financial quotes develop
 
 Finally, we perfrom the same word frequency analysis to find the most important words used in the quotes that are categorized as negative, positive and neutral. 
 
+<iframe src="/images/plot.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
