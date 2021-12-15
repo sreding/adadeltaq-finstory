@@ -17,6 +17,6 @@ Market Sentiment, as described in this [article](https://www.investopedia.com/te
 
 If this introduction triggered your curiosity, we are very happy to guide you through our journey towards finding an answer to our main research question. Otherwise, no hard feelings 😉.
 
-As a fist introduction to the steps we have taken in this project, here you can find the general pipeline we have developed. 
+Here you can find the general pipeline we have developed for this project. If certain things are unclear, no worries! In about 5 minutes we will have explained every single step and this picture will become trivial to you! 
 
 ![General Overview of Data Pipeline](./images/overview.png "Proposed Pipeline")
