@@ -33,6 +33,7 @@ Keeping in mind the limitations of the senitment detected, there are still some 
 ### Were we happy about our economy? 
 The sentiment expressed in the news is an extremely useful tool to detect how the financial sector and the overall economical stability are perceived at a certain point in time. In this section we analyze the overall sentiment expressed within all the over 3 million quotations to see if the time series of the sentiment displays regulariteis that can be associated with known financial events. 
 
+![Time series sentiment percentage](./images/time_series_sentiment_percentage.png "Time series sentiment percentage")
 
 
 First, the following plot show the percentage of quotations that are detected as positive, negative, or neutral, for each day from January 2015 until March 2020. From the plot we can conclude the following:
