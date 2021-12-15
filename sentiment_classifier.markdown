@@ -26,15 +26,16 @@ In order to check if the sentiment classification worked as expected, we look in
 ![WordCloud chart of word frequency per sentiment class](./images/WordCloud_all.png "WordCloud chart of word frequency per sentiment class")
 
 Keeping in mind the limitations of the senitment detected, there are still some interesting observations that can be made:
-- The word "technology" appears very frequently among the class of positive quotes, which is in agreement with the storng growth of the so called "Big Tech" companies in the past years. 
+- The word "technology" appears very frequently among the class of positive quotes, which is in agreement with the growth of the so called "Big Tech" companies in the past years. 
 - The word "bank" does not seem to be among the most common positive words but it appears relatively frequent among quotations carrying a negative senitment.
 - It is also quite surprising to see that among the most common words within negative sentences there are the words "American" and "Trump", and these words are not present at all in the WordCloud representing the positive sentiment. The fact that the selected quotations cover the 2 years before the elections and the first 3 full years of Trump's Presidency might indicate a general discontent towards the economic ideologies or policies proposed by Trump. 
 
-### Were we happy about our economy? 
+### When were we happy about our economy? 
 The sentiment expressed in the news is an extremely useful tool to detect how the financial sector and the overall economical stability are perceived at a certain point in time. In this section we analyze the overall sentiment expressed within all the over 3 million quotations to see if the time series of the sentiment displays regulariteis that can be associated with known financial events. 
 
-![Time series sentiment percentage](./images/time_series_sentiment_percentage.png "Time series sentiment percentage")
-
+<p align="center">
+  <img src="./images/time_series_sentiment_percentage.png" />
+</p>
 
 First, the following plot show the percentage of quotations that are detected as positive, negative, or neutral, for each day from January 2015 until March 2020. From the plot we can conclude the following:
 - On average, the positive sentiment is prevalent in this time period with about 60% of the daily quotations carrying a rather positive sentiment. This is in agreement with the overall positive trend the economy had been following in the past years until the Covid-19 pandemic. 
