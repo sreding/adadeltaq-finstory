@@ -17,8 +17,6 @@ The key step to answer our research questions is to detect the sentiment express
 
 Given the above pros and cons in the end we decided to use the later model, i.e., the pretrained Zero-Shot Classifier.
 
-INCLUDE SIMULATION???
-
 ### Is Trump a negative word?
 In order to check if the sentiment classification worked as expected, we look into the most common words that are not stopwords for each category: positive, negative, and neutral. We visualize the results in Figure ???. It can be noticed that, while certain words, e.g. market and company, are common to all categories because in general relevant for the finaincial field, it can be seen that semantic-carrying words most of the times belong to the correct semantic class. For example, good is quite often present in quotations categorized as posiitve while difficult and crisis can be often found among the negative class of quotations. On the other hand, it should be kept in mind throughout the project that the sentiment categories are the result of an (unsupervised) algorithm, meaning that they should be considered with caution. Nevertheless, it appears that the senitment classification has worked as expected. 
 
