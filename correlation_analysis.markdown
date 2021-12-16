@@ -31,19 +31,19 @@ Barack Obama is a politician, in particular he was president of the United State
 {% include Barack_Obama_volume_changed_vs_number_quotes.html %}
 
 2. __Hillary Clinton__
-![clinton](./images/clinton.jpg "clinton")
+<img src="./images/clinton.jpg" alt="drawing" width="200"/>
 Hillary Clinton is a politician, she has had an important role in the american gouvernment. As we can notice in the timeseries below, she has the highest amount of quotes between mid 2015 and 2017, so during the election campaign with the democratics against Trump.
 
 {% include Hillary_Clinton_volume_changed_vs_number_quotes.html %}
 
 3. __David Cameron__
-![cameron](./images/cameron.jpg "cameron")
+<img src="./images/cameron.jpg" alt="drawing" width="200"/>
 David Cameron is a politician, he was the Britain prime minister from 2010 to 2016. We again noticed that he was more active during the years of his charge.
 
 {% include David_Cameron_volume_changed_vs_number_quotes.html %}
 
 4. __George Osborne__
-![osborne](./images/osborne.jpg "osborne")
+<img src="./images/osborne.jpg" alt="drawing" width="200"/>
 Geroge Osborne is a politician, he's a member of the Britain conservative party, in particular he was Chancellor of the Exchequer from 2010 to 2016, menaning that he was the finance minister of England during those years. In fact, as it is shown in the graphic below, he has his highest peaks during those years.
 
 {% include George_Osborne_volume_changed_vs_number_quotes.html %}
