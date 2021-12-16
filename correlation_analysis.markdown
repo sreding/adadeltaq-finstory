@@ -6,6 +6,7 @@ layout: home
 title: Correlation Analysis
 order: 5
 ---
-# Under construction...
+
 {% include Godwin_Emefiele_stock_vs_sentiment.html %}
 {% include plot_results.html %}
+{ % include stock_value_varuiation_vs_volume_variation.html %}
