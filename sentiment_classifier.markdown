@@ -44,5 +44,4 @@ First, the following plot show the percentage of quotations that are detected as
 
 We also analyzed how the average sentiment expressed in financial quotes developed over time in the past years. The plots presented here show for each year, starting from 2015 until 2020, the average financial sentiment. Similar conclusions can be drawn as before, but here it becomes even clearer the larger sentiment variability characterizing the end of 2015 and the full year of 2016.
 
-[//]: # (![Time series of the average sentiment]&#40;./images/average_sentiment_time_series.png "Time series of the average sentiment"&#41;)
 {% include sentiment_over_time.html %}
