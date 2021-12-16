@@ -34,7 +34,7 @@ In the graphs below we show the twenty most citated people in the dataset obtain
 ### S&P500 data
 We used the SPY([S&P500](https://en.wikipedia.org/wiki/S%26P_500)) dataset from 2015 until 2020 that can be retrieved from the yahoofinance library. This dataset contains all the Open, Close and Volume daily values of this stock market from 2015 to 2020. Analysing the dataset we discovered that many dates were missing, this is because the market is closed on the weekend and on festivities so we didn't have data for those days. We decided not to interpolate or fake the values for those days but just not consider them in our analysis. Furthermore, we add a daily value, 'day_variation', that for the day n is computed as a difference between the Open value of the day n+1 and the Open value of the day n, so it represents how much the stock market has changed in this day n.   
 
-{%include fig1.html}
+{%include_relative fig1.html}
 
 
 
