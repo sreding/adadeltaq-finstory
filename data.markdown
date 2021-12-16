@@ -38,5 +38,3 @@ Furthermore, we add a daily value, '_day_variation_', that for the day __n__ is 
 
 {% include day_variation.html %}
 {% include Volume.html %}
-
-
