@@ -13,7 +13,7 @@ After filtering out the quotations unrelated to the topico of interest, we are l
 
 The reader can appreciate the prevelance of the words "market", "company", and "investment", which provides furhter evidence that the filtering of the quotes worked relatively well. Obviously, the frequency of the words is biased by the seed words we used to select the quotations in the first place, for instance the word "market" was indeed one of them. Nevertheless, the fact that "investment" and "company" were not seed words but appear very frequently in the selected quotes suggests that the filtering did manage to select financial quotes as intended. 
 
-On the other hand, it is quite surprising to see the word "will" appearing so often in the quotations, probbaly suggesting the forward looking mindset characterizing the financial field. Also, from simply scrolling through the most frequent words there seem to be a rather abundance of words carrying a positive connotation such as "good", "opportunity", and "growth". We will fruther analyse this topic later in the sentiment analysis Section. 
+On the other hand, it is quite surprising to see the word "will" appearing so often in the quotations, probably suggesting the forward looking mindset characterizing the financial field. Also, from simply scrolling through the most frequent words there seem to be a rather abundance of words carrying a positive connotation such as "good", "opportunity", and "growth". We will further analyse this topic later in the sentiment analysis Section. 
 
 
 ### S&P500 data
