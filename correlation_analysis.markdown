@@ -44,7 +44,7 @@ Hillary Clinton is a politician, she has had an important role in the american g
 
 3. __David Cameron__
 <p align="center">
-<img src="./images/cameron.jpg" alt="drawing" width="200"/>
+<img src="./images/cameron.jpg" alt="drawing" width="300"/>
 </p>
 
 David Cameron is a politician, he was the Britain prime minister from 2010 to 2016. We again noticed that he was more active during the years of his charge.
