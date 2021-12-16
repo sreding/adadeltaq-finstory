@@ -25,7 +25,9 @@ After this analysis we decided to focus on the second method because we believe 
 From the remained t-test we decided to keep only speaker with a p-value smaller than 0.1. These eight seleceted people could potentially have an impact on the S&P500. We than compute the Spearman rank correlation only on this subset between the number of non-neutral daily quotes and the daily stock market volume. From the results only one of them has a a negative correlation, meaning that he doesn't have an impact on it. While the other seven people have positive coefficients and a significant p-value, so we believe that these speakers could have had an impact on the stock market volume. We now present some of them.
 
 1. __Barack Obama__
+<p align="center">
 <img src="./images/obama.jpg" alt="drawing" width="200"/>
+</p>
 Barack Obama is a politician, in particular he was president of the United States of America from 2009 to 2017. So it's reasonable to think that he could have an impact on the market. In the timeseries below we show the graphical correlation between the amount of quotes and the stock volume. What is interesting to notice is that the amount of quotes is higher in the first two years (so his last years of charge).
 
 {% include Barack_Obama_volume_changed_vs_number_quotes.html %}
