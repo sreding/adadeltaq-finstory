@@ -8,3 +8,4 @@ order: 5
 ---
 # Under construction...
 {% include Godwin_Emefiele_stock_vs_sentiment.html %}
+{% include plot_results.html %}
