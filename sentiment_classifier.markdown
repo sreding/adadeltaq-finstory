@@ -27,7 +27,6 @@ In order to check if the sentiment classification worked as expected, we look in
 
 Keeping in mind the limitations of the sentiment detected, there are still some interesting observations that can be made:
 - The word "technology" appears very frequently among the class of positive quotes, which is in agreement with the growth of the so called "Big Tech" companies in the past years. 
-- The word "bank" does not seem to be among the most common positive words but it appears relatively frequent among quotations carrying a negative sentiment.
 - It is also quite surprising to see that among the most common words within negative sentences there are the words "American" and "Trump", and these words are not present at all in the WordCloud representing the positive sentiment. The fact that the selected quotations cover the 2 years before the elections and the first 3 full years of Trump's Presidency might indicate a general discontent towards the economic ideologies or policies proposed by Trump. 
 
 If you are down for a little game you can try to look for the words mentioned above yourself, otherwise you can scroll down at the end of this page for the solutions. Good luck 🤣
