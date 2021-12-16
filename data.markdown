@@ -26,7 +26,7 @@ For our analysis we will consider the 100 people with the hugest amount of quota
 
 In the graphs below we show the twenty most citated people in the dataset obtained with all these processes.
 
-![20 most quotated people](./images/data.png "20 most quotated people")
+{% include speakers.html %}
 
 ---
 
