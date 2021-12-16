@@ -23,9 +23,9 @@ In order to check if the sentiment classification worked as expected, we look in
 
 ![WordCloud chart of word frequency per sentiment class](./images/WordCloud_all.png "WordCloud chart of word frequency per sentiment class")
 
-Keeping in mind the limitations of the senitment detected, there are still some interesting observations that can be made:
+Keeping in mind the limitations of the sentiment detected, there are still some interesting observations that can be made:
 - The word "technology" appears very frequently among the class of positive quotes, which is in agreement with the growth of the so called "Big Tech" companies in the past years. 
-- The word "bank" does not seem to be among the most common positive words but it appears relatively frequent among quotations carrying a negative senitment.
+- The word "bank" does not seem to be among the most common positive words but it appears relatively frequent among quotations carrying a negative sentiment.
 - It is also quite surprising to see that among the most common words within negative sentences there are the words "American" and "Trump", and these words are not present at all in the WordCloud representing the positive sentiment. The fact that the selected quotations cover the 2 years before the elections and the first 3 full years of Trump's Presidency might indicate a general discontent towards the economic ideologies or policies proposed by Trump. 
 
 ### When were we happy about our economy? 
@@ -42,6 +42,6 @@ First, the following plot show the percentage of quotations that are detected as
 - The same stability can be found for years 2018 and 2019, which is quite surprising considering that in these months we have witnessed the [US-China Trade war](https://www.bbc.com/news/business-45899310) as well as the withdrawal of the US from the [multinational nuclear deal](https://edition.cnn.com/interactive/2020/01/world/us-iran-conflict-timeline-trnd/) which led to political instability in the Middle East throughout the following years. 
 - Finally, the graph displays a clear reduction in positive quotations at the beginnig of year 2020 which corresponds to the beginning of the ongoing coronavirus pandemic.
 
-We also analyzed how the average sentiment expressed in financial quotes developed over time in the past years. The plots presented here show for each year, starting from 2015 until 2020, the average financial sentiment. Similar conclusions can be drawn as before, but here it becomes even clearer the larger sentiment variability characterozing the end of 2015 and the full year of 2016.
+We also analyzed how the average sentiment expressed in financial quotes developed over time in the past years. The plots presented here show for each year, starting from 2015 until 2020, the average financial sentiment. Similar conclusions can be drawn as before, but here it becomes even clearer the larger sentiment variability characterizing the end of 2015 and the full year of 2016.
 
 ![Time series of the average sentiment](./images/average_sentiment_time_series.png "Time series of the average sentiment")
