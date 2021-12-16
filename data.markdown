@@ -22,6 +22,8 @@ For our analysis we will consider the 100 people with the hugest amount of quota
 -	‘President Trump’, ’President Donald Trump’, ‘Donald Trump’ =>  ‘Donald Trump’
 -	‘Gov. Rick Scott’ => ‘Rick Scott’
 
+![20 most quotated people](./images/data.png "20 most quotated people")
+
 
 
 ### S&P500 data
