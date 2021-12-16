@@ -28,23 +28,23 @@ From the remained t-test we decided to keep only speaker with a p-value smaller 
 ![obama](./images/obama.jpg "obama")
 Barack Obama is a politician, in particular he was president of the United States of America from 2009 to 2017. So it's reasonable to think that he could have an impact on the market. In the timeseries below we show the graphical correlation between the amount of quotes and the stock volume. What is interesting to notice is that the amount of quotes is higher in the first two years (so his last years of charge).
 
-{% include Barack_Obama_volume_change_vs_number_quotes.html %}
+{% include Barack_Obama_volume_changed_vs_number_quotes.html %}
 
 2. __Hillary Clinton__
 ![clinton](./images/clinton.jpg "clinton")
 Hillary Clinton is a politician, she has had an important role in the american gouvernment. As we can notice in the timeseries below, she has the highest amount of quotes between mid 2015 and 2017, so during the election campaign with the democratics against Trump.
 
-{% include Hillary_Clinton_volume_change_vs_number_quotes.html %}
+{% include Hillary_Clinton_volume_changed_vs_number_quotes.html %}
 
 3. __David Cameron__
 ![cameron](./images/cameron.jpg "cameron")
 David Cameron is a politician, he was the Britain prime minister from 2010 to 2016. We again noticed that he was more active during the years of his charge.
 
-{% include David_Cameron_volume_change_vs_number_quotes.html %}
+{% include David_Cameron_volume_changed_vs_number_quotes.html %}
 
 4. __George Osborne__
 ![osborne](./images/osborne.jpg "osborne")
 Geroge Osborne is a politician, he's a member of the Britain conservative party, in particular he was Chancellor of the Exchequer from 2010 to 2016, menaning that he was the finance minister of England during those years. In fact, as it is shown in the graphic below, he has his highest peaks during those years.
 
-{% include George_Osborne_volume_change_vs_number_quotes.html %}
+{% include George_Osborne_volume_changed_vs_number_quotes.html %}
  
