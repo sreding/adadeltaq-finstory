@@ -7,4 +7,4 @@ title: Correlation Analysis
 order: 5
 ---
 # Under construction...
-{% include relative Godwin_Emefiele_stock_vs_sentiment.html %}
+{% include_relative _includes/Godwin_Emefiele_stock_vs_sentiment.html %}
