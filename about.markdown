@@ -12,3 +12,6 @@ order: 6
 ### Solutions 
 
 ![WordCloud chart of word frequency per sentiment class](./images/WordCloud_all.png "WordCloud chart of word frequency per sentiment class")
+<p align="center">
+    Generated WordClouds: left positve, middle negative, and right neutral
+</p>
