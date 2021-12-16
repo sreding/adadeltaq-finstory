@@ -20,13 +20,14 @@ Given the above pros and cons in the end we decided to use the later model, i.e.
 ### Is Trump a negative word?
 In order to check if the sentiment classification worked as expected, we look into the most common words that are not stopwords for each category: positive, negative, and neutral. We visualize the results in Figure ???. It can be noticed that, while certain words, e.g. market and company, are common to all categories because in general relevant for the finaincial field, it can be seen that semantic-carrying words most of the times belong to the correct semantic class. For example, good is quite often present in quotations categorized as posiitve while difficult and crisis can be often found among the negative class of quotations. On the other hand, it should be kept in mind throughout the project that the sentiment categories are the result of an (unsupervised) algorithm, meaning that they should be considered with caution. Nevertheless, it appears that the senitment classification has worked as expected. 
 
-[ ![](./images/WordCloud_all.png) ](./images/average_sentiment_time_series.png)
 ![WordCloud chart of word frequency per sentiment class](./images/WordCloud_all.png "WordCloud chart of word frequency per sentiment class")
 
 Keeping in mind the limitations of the sentiment detected, there are still some interesting observations that can be made:
 - The word "technology" appears very frequently among the class of positive quotes, which is in agreement with the growth of the so called "Big Tech" companies in the past years. 
 - The word "bank" does not seem to be among the most common positive words but it appears relatively frequent among quotations carrying a negative sentiment.
 - It is also quite surprising to see that among the most common words within negative sentences there are the words "American" and "Trump", and these words are not present at all in the WordCloud representing the positive sentiment. The fact that the selected quotations cover the 2 years before the elections and the first 3 full years of Trump's Presidency might indicate a general discontent towards the economic ideologies or policies proposed by Trump. 
+
+Good luck finding these words 🤣 (solutions are [here](about.markdown))
 
 ### When were we happy about our economy? 
 The sentiment expressed in the news is an extremely useful tool to detect how the financial sector and the overall economical stability are perceived at a certain point in time. In this section we analyze the overall sentiment expressed within all the over 3 million quotations to see if the time series of the sentiment displays regulariteis that can be associated with known financial events. 
