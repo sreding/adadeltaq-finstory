@@ -20,7 +20,7 @@ Given the above pros and cons in the end we decided to use the later model, i.e.
 ### Is Trump a negative word?
 In order to check if the sentiment classification worked as expected, we look into the most common words that are not stopwords for each category: positive, negative, and neutral. We visualize the results in Figure ???. It can be noticed that, while certain words, e.g. market and company, are common to all categories because in general relevant for the finaincial field, it can be seen that semantic-carrying words most of the times belong to the correct semantic class. For example, good is quite often present in quotations categorized as posiitve while difficult and crisis can be often found among the negative class of quotations. On the other hand, it should be kept in mind throughout the project that the sentiment categories are the result of an (unsupervised) algorithm, meaning that they should be considered with caution. Nevertheless, it appears that the senitment classification has worked as expected. 
 
-
+[ ![](./images/WordCloud_all.png) ](./images/average_sentiment_time_series.png)
 ![WordCloud chart of word frequency per sentiment class](./images/WordCloud_all.png "WordCloud chart of word frequency per sentiment class")
 
 Keeping in mind the limitations of the sentiment detected, there are still some interesting observations that can be made:
@@ -44,4 +44,5 @@ First, the following plot show the percentage of quotations that are detected as
 
 We also analyzed how the average sentiment expressed in financial quotes developed over time in the past years. The plots presented here show for each year, starting from 2015 until 2020, the average financial sentiment. Similar conclusions can be drawn as before, but here it becomes even clearer the larger sentiment variability characterizing the end of 2015 and the full year of 2016.
 
+[//]: # (![Time series of the average sentiment]&#40;./images/average_sentiment_time_series.png "Time series of the average sentiment"&#41;)
 {% include sentiment_over_time.html %}
