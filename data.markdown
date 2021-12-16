@@ -7,6 +7,11 @@ title: Data
 order: 2
 ---
 ### Market quotations
+
+![WordCloud chart of word frequency per sentiment class solutions](./images/WordCloud_all_solutions.png "WordCloud chart of word frequency per sentiment class solutions")
+<p align="center">
+    Generated WordClouds: left positve, middle negative, and right neutral
+</p>
 After filtering out the quotations unrelated to the topico of interest, we are left with a total of 2962875 quotes. In this Section we present a deeper analysis about the characteristics of these quotes to gain a better understanding of the data at hand. Firstly, Figure XXX presents the WorldCloud chart where the most frequent words (after removal of stopwords) are written in a larger font. 
 
 ![WordCloud chart of word frequency](./images/WordCloud.png "WordCloud chart")
