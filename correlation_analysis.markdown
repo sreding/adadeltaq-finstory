@@ -7,4 +7,4 @@ title: Correlation Analysis
 order: 5
 ---
 # Under construction...
-(./_includes/Godwin_Emefiele_stock_vs_sentiment.html "WordCloud chart")
+[](./_includes/Godwin_Emefiele_stock_vs_sentiment.html "WordCloud chart")
