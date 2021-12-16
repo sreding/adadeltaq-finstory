@@ -29,12 +29,12 @@ github_username:  sreding
 
 
 header_pages:
--index.markdown
--context_filter.markdown
--data.markdown
--sentiment_classifier.markdown
--correlation_analysis.markdown
--about.markdown
+- index.markdown
+- context_filter.markdown
+- data.markdown
+- sentiment_classifier.markdown
+- correlation_analysis.markdown
+- about.markdown
 
 # Build settings
 theme: minima
