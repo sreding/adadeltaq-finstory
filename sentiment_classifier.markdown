@@ -49,3 +49,9 @@ First, the following plot show the percentage of quotations that are detected as
 We also analyzed how the average sentiment expressed in financial quotes developed over time in the past years. The plots presented here show for each year, starting from 2015 until 2020, the average financial sentiment. Similar conclusions can be drawn as before, but here it becomes even clearer the larger sentiment variability characterizing the end of 2015 and the full year of 2016.
 
 {% include sentiment_over_time.html %}
+
+### Solutions Finding-the-words game
+![WordCloud chart of word frequency per sentiment class solutions](./images/WordCloud_all_solutions.png "WordCloud chart of word frequency per sentiment class solutions")
+<p align="center">
+    Generated WordClouds: left positve, middle negative, and right neutral
+</p>
