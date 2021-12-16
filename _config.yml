@@ -27,14 +27,16 @@ baseurl: "/adadeltaq-finstory/" # the subpath of your site, e.g. /blog
 url: "https://adadeltaq-finstory.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sreding
 
+header_pages:
+ - about.md
 
 header_pages:
-- index.markdown
-- context_filter.markdown
-- data.markdown
-- sentiment_classifier.markdown
-- correlation_analysis.markdown
-- about.markdown
+ - index.markdown
+ - context_filter.markdown
+ - data.markdown
+ - sentiment_classifier.markdown
+ - correlation_analysis.markdown
+ - about.markdown
 
 # Build settings
 theme: minima
