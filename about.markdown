@@ -9,4 +9,3 @@ order: 6
 
 ### The Course
 
-### Solutions 
