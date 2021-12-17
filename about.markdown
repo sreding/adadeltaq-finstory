@@ -6,6 +6,7 @@ order: 6
 ---
 
 ### Team Members
+The four members of the ADADELTA-Q team:
 
 - __Francesco Bollero__
 <img src="./images/franco.jpg" alt="drawing" width="200"/>
@@ -27,7 +28,6 @@ Student of Applied Mathematics.
 
 Student of Data science.
 
-
-
 ### The Course
+The course is Applied data Analysis of EPFL (École Polytechnique Fédérale de Lausanne).
 
