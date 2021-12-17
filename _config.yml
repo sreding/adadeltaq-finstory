@@ -28,9 +28,6 @@ url: "https://adadeltaq-finstory.github.io" # the base hostname & protocol for y
 github_username:  sreding
 
 header_pages:
- - about.md
-
-header_pages:
  - index.markdown
  - context_filter.markdown
  - data.markdown
