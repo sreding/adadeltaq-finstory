@@ -17,7 +17,7 @@ Student of Applied Mathematics.
 
 <img src="./images/simon.jpg" alt="simon" width="200"/>
 
-Student of Data science.
+Student of Computer Science.
 
 - __Federica Padovano__
 
@@ -29,7 +29,7 @@ Student of Applied Mathematics.
 
 <img src="./images/luca_zampierin.jpg" alt="luca" width="200"/>
 
-Student of Data science.
+Student of Data Science.
 
 ### The Course
 The course is Applied data Analysis of EPFL (École Polytechnique Fédérale de Lausanne).
