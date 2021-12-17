@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Correlation Analysis
+title: Analysis and Results
 order: 5
 ---
 
