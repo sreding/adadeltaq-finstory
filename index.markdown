@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Project Introduction
+title: Introduction
 order: 1
 ---
 ## **Whose Sentiment towards the Market influences the Market Sentiment?**
