@@ -19,4 +19,4 @@ If this introduction triggered your curiosity, we are very happy to guide you th
 
 Here you can find the general pipeline we have developed for this project. If certain things are unclear, no worries! In about 5 minutes we will have explained every single step and this picture will become trivial to you! 
 
-![General Overview of Data Pipeline](./images/overview.png "Proposed Pipeline")
+![General Overview of Data Pipeline](./images/graph_ada.png "Proposed Pipeline")
