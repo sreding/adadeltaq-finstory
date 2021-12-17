@@ -34,7 +34,7 @@ header_pages:
  - data.markdown
  - sentiment_classifier.markdown
  - correlation_analysis.markdown
- - conclusion.markdown
+ - conlusion.markdown
  - about.markdown
 
 include:
@@ -44,7 +44,7 @@ include:
  - sentiment_classifier.markdown
  - correlation_analysis.markdown
  - conclusion.markdown
- - conclusion.markdown
+ - conlusion.markdown
  - about.markdown
 
 # Build settings
