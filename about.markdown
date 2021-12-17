@@ -1,7 +1,6 @@
 ---
 layout: home
 title: About
-permalink: /about/
 order: 6
 ---
 
@@ -10,7 +9,6 @@ The four members of the ADADELTA-Q team:
 
 - __Francesco Bollero__
 <img src="./images/franco.jpg" alt="franco" width="200"/>
-
 Student of Applied Mathematics.
 
 - __Simon Reding__
