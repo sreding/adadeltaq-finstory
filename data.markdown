@@ -11,7 +11,7 @@ After filtering out the quotations unrelated to the topic of interest, we are le
 
 ![WordCloud chart of word frequency](./images/WordCloud.png "WordCloud chart")
 
-The reader can appreciate the prevelance of the words "market", "company", and "investment", which provides further evidence that the filtering of the quotes worked relatively well. Obviously, the selection strongly depends on the seed words used to filter the sentences. Nevertheless, we notice that none of the most frequent words is one of the seed words we used for filtering, possibly indicating that the filter managed to capture the general financial smenatic context. 
+The reader can appreciate the prevelance of the words "market", "company", and "investment", which provides further evidence that the filtering of the quotes worked relatively well. Obviously, the selection strongly depends on the seed words used to filter the sentences. Nevertheless, we notice that none of the most frequent words is one of the seed words we used for filtering, possibly indicating that the filter managed to capture the general financial semantic context. 
 
 On the other hand, it is quite surprising to see the word "will" appearing so often in the quotations, probably evidencing the forward-looking mindset that characterises the financial area. Also, from simply scrolling through the most frequent words there seem to be a rather abundance of words carrying a positive connotation such as "good", "opportunity", and "growth". We will further analyse this topic later in the Sentiment Classification section. 
 
