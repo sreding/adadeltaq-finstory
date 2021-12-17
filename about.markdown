@@ -10,7 +10,7 @@ order: 6
 - __Francesco Bollero__
 
 <p align="center">
-<img src="./images/franco.jpeg" alt="drawing" width="130"/>
+<img src="./images/franco.jpg" alt="drawing" width="130"/>
 </p>
 
 Student of Applied Mathematics.
@@ -18,7 +18,7 @@ Student of Applied Mathematics.
 - __Simon Reding__
 
 <p align="center">
-<img src="./images/simon.jpeg" alt="drawing" width="130"/>
+<img src="./images/simon.jpg" alt="drawing" width="130"/>
 </p>
 
 Student of Data science.
@@ -26,7 +26,7 @@ Student of Data science.
 - __Federica Padovano__
 
 <p align="center">
-<img src="./images/federica.jpeg" alt="drawing" width="130"/>
+<img src="./images/federica.jpg" alt="drawing" width="130"/>
 </p>
 
 Student of Applied Mathematics.
