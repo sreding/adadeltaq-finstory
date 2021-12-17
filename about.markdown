@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home
 title: About
-permalink: /about/
 order: 6
 ---
 
