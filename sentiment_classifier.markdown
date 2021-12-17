@@ -7,7 +7,7 @@ title: Sentiment Classification
 order: 4
 ---
 ### Sentiment Classification
-The key step to answer our research questions is to detect the sentiment expressed in each one of the quotations, that is, we need to perform a Sentiment Analysis task. To do so, we had the choice between pretrained supervised models (BERT), unsupervised models (VADER), or Zero-SHot NLP model. The following table summarizes our thought process.
+The key step to answer our research questions is to detect the sentiment expressed in each one of the quotations, that is, we need to perform a Sentiment Analysis task. To do so, we had the choice between pretrained supervised models (BERT), unsupervised models (VADER), or Zero-Shot NLP model. The following table summarizes our thought process.
 
 | Model |  Pros |  Cons |
 |-------|-------|-------|
