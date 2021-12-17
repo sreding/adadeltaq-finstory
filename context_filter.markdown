@@ -6,6 +6,14 @@ layout: home
 title: Context Filter
 order: 3
 ---
+
+The sheer size of Quotebank makes reductions unavoidable. We filter:
+1. Quotes that are not useful for our purposes: Speaker can't be identified with certainty
+2. Columns: `phase` and `probas` (after identifying the speaker)
+3. Off-topic quotes
+
+While the first two points can be trivially executed, the third criteria requires more care. In the following we will briefly outline how we extracted the semantics from quotes to filter off-topic quotes.
+
 ### Methodology
 The selection of the quotes that are relevant to the topic of financial markets is done using vector representations of words, in particular we employ [fastText](https://fasttext.cc/) , a state-of-the-art model for text representations.
 We tokenize the data and convert to lower case, removing any english stopwords.
