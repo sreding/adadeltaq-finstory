@@ -30,5 +30,6 @@ Student of Data science.
 
 ### The Course
 The course is Applied data Analysis of EPFL (École Polytechnique Fédérale de Lausanne).
-<img src="./images/ADA.png" alt="drawing" width="200"/>
+
+<img src="./images/ADA.png" alt="drawing" width="100"/>
 
