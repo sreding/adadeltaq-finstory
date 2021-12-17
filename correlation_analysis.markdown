@@ -59,7 +59,7 @@ David Cameron is a politician, he was the Britain prime minister from 2010 to 20
 <img src="./images/osborne.jpg" alt="drawing" width="200"/>
 </p>
 
-Geroge Osborne is a politician, he's a member of the Britain conservative party, in particular he was Chancellor of the Exchequer from 2010 to 2016, menaning that he was the finance minister of England during those years. In fact, as it is shown in the graphic below, he has his highest peaks during those years.
+Geroge Osborne is a politician, he's a member of the Britain conservative party, in particular he was Chancellor of the Exchequer from 2010 to 2016, meaning that he was the finance minister of England during those years. In fact, as it is shown in the graphic below, he has his highest peaks during those years.
 
 {% include George_Osborne_volume_changed_vs_number_quotes.html %}
  
