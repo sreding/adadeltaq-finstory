@@ -15,7 +15,7 @@ The key step to answer our research questions is to detect the sentiment express
 | Unsupervised VADER | Does not require any labeled data | The performance on sample sentences was unsatisfactory|
 | Zero-Shot Classifier | Does not require labeled data for fine-tuning and predicted reasonable sentiments on sample sentences | Heavier to run | 
 
-Given the above pros and cons in the end we decided to use the later model, i.e., the pretrained Zero-Shot Classifier. If you want to replicate the results, keep in mind that for us it took around 24 hours to classify the sentiment of all quotes. 
+Given the above pros and cons in the end we decided to use the later model, i.e., the pretrained Zero-Shot Classifier. If you want to replicate the results, keep in mind that the sentiment classification took around 20 hours on a ryzen 5900 with an RTX 3060Ti graphics card, that is, around 40 quotations per second.
 
 ### Are "Trump" and "American" negative words?
 In order to check if the sentiment classification worked as expected, we study the most common words that are not stopwords for each category, i.e., positive, negative, and neutral. We visualize the results in the next Figure. It can be noticed that, while certain words, e.g. market and company, are common to all categories because in general relevant in finance, semantic-carrying words most of the times belong to the correct semantic class. For example, good is quite often present in quotations categorized as positive while difficult and crisis can be often found among the negative class of quotations. Nevertheless, it should be kept in mind throughout the project that the sentiment categories are the result of an (unsupervised) algorithm, meaning that they should be considered with caution.
