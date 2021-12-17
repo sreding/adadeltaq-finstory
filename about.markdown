@@ -7,39 +7,23 @@ order: 6
 
 ### Team Members
 
-<p align="center">
-<img src="./images/obama.jpg" alt="drawing" width="200"/>
-</p>
-
 - __Francesco Bollero__
-
-<p align="center">
-<img src="./images/franco.jpg" alt="drawing" width="200"/>
-</p>
+![franco](./images/franco.jpg "franco")
 
 Student of Applied Mathematics.
 
 - __Simon Reding__
-
-<p align="center">
-<img src="./images/simon.jpg" alt="drawing" width="200"/>
-</p>
+![simon](./images/simon.jpg "simon")
 
 Student of Data science.
 
 - __Federica Padovano__
-
-<p align="center">
-<img src="./images/federica.jpg" alt="drawing" width="200"/>
-</p>
+![federica](./images/federica.jpg "federica")
 
 Student of Applied Mathematics.
 
 - __Luca Zampierin__
-
-<p align="center">
-<img src="./images/luca_zampierin.jpg" alt="drawing" width="200"/>
-</p>
+![luca](./images/luca_zampierin.jpg "luca")
 
 Student of Data science.
 
