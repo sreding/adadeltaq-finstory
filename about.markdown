@@ -24,7 +24,7 @@ Student of Data science.
 Student of Applied Mathematics.
 
 - __Luca Zampierin__
-<img src="./images/luca_zampierin.jpg" alt="luca" width="200"/>
+<img src="luca_zampierin.jpg" alt="luca" width="200"/>
 
 Student of Data science.
 
