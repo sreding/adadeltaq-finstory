@@ -33,6 +33,7 @@ header_pages:
  - data.markdown
  - sentiment_classifier.markdown
  - correlation_analysis.markdown
+ - conclusion.markdown
  - about.markdown
 
 # Build settings
