@@ -8,22 +8,22 @@ order: 6
 ### Team Members
 
 - __Francesco Bollero__
-![franco](./images/franco.jpg "franco")
+<img src="./images/franco.jpg" alt="drawing" width="200"/>
 
 Student of Applied Mathematics.
 
 - __Simon Reding__
-![simon](./images/simon.jpg "simon")
+<img src="./images/simon.jpg" alt="drawing" width="200"/>
 
 Student of Data science.
 
 - __Federica Padovano__
-![federica](./images/federica.jpg "federica")
+<img src="./images/federica.jpg" alt="drawing" width="200"/>
 
 Student of Applied Mathematics.
 
 - __Luca Zampierin__
-![luca](./images/luca_zampierin.jpg "luca")
+<img src="./images/luca_zampierin.jpg" alt="drawing" width="200"/>
 
 Student of Data science.
 
