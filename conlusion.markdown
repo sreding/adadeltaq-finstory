@@ -4,7 +4,7 @@
 
 layout: home
 title: Conclusion
-order: 7
+order: 6
 ---
 In conclusion, in this project we have studied **whether certain people seem to me more influential on the stock market than others**. We have done this by studying whether the sentiment they expressed in their quotes correlated significnatly with the daily change in price of the S&P500 index and the the daily volumne of shares traded. 
 
